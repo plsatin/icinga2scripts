@@ -98,3 +98,4 @@ Start-Sleep -s 30
 $objNotifyIcon.Visible = $false
 $script:objNotifyIcon.Dispose()
 #Remove–Variable –Scope script –Name objNotifyIcon
+
